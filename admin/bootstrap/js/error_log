@@ -1,0 +1,1 @@
+[20-Jun-2024 11:36:48 UTC] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in /home/octamask/checta.com/admin/bootstrap/js/logs.php(9) : eval()'d code on line 1
