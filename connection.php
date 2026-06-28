@@ -6,10 +6,10 @@
 // Database connection (Change credentials accordingly)
         $servername = "localhost";
         //$username = "dualstre_World Trust Holding";
-        $username = "dualxtra_apex";
-        $password = "BE73Z9pPVRSq4EbKZ34m";
+        $username = "dualxtra_worldtrustholding";
+        $password = "jphUycuvtvBMVpfbDYaH";
         //$dbname = "dualstre_World Trust Holding";
-        $dbname = "dualxtra_apex";
+        $dbname = "dualxtra_worldtrustholding";
 
         $conn = new mysqli($servername, $username, $password, $dbname);
         // if($conn){
